@@ -1,9 +1,5 @@
 # 🐙 POOLI - 가족 데이터 사용량 관리 및 정책 제어 서비스
 
-<p align="center">
-  <img src="src/assets/img/intro.svg" alt="POOLI Character" width="800" />
-</p>
-
 ### 🏆 LG 유플러스 유레카 SW 아카데미 3기 최종 융합프로젝트 🏅
 
 > [POOLI 바로가기](https://www.pooliapp.com) | [POOLI Admin 바로가기](https://office.pooliapp.com) | [📒 Notion](https://www.notion.so/yerin1412/1-2c3389b3e03981e2a56bdaa42ff24264) | [🎨 Figma](https://www.figma.com/design/f3JZPIcAe7kLYvRe8DZVG5/%EC%B5%9C%EC%A2%85%EC%9C%B5%ED%95%A9%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=826-8237&t=ZDAB0VHd8TpTtPXp-0)
