@@ -6,7 +6,7 @@
 
 ### 🏆 LG 유플러스 유레카 3기 비대면반 최종 융합프로젝트 
 
-> [POOLI 바로가기](https://www,pooliapp.com) | [POOLI Admin 바로가기](https://office.pooliapp.com)
+> [POOLI 바로가기](https://www.pooliapp.com) | [POOLI Admin 바로가기](https://office.pooliapp.com)
 
 ---
 
